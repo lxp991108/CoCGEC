@@ -1,4 +1,5 @@
 # CoCGEC: A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction
+[**English**](https://github.com/lxp991108/CoCGEC) | [**中文**](https://github.com/lxp991108/CoCGEC/blob/main/README_ZH.md)
 
 本仓库公开了用于中文语病纠错（CGEC）的 CoCGEC 数据集以及自动标注语病范围的代码。这些资源基于我们在 COLING 2025 接收的论文  
 **“A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction”**  
