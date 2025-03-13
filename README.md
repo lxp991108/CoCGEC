@@ -1,6 +1,6 @@
 # CoCGEC: A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction
 
-本仓库公开了用于中文语法错误纠正（CGEC）的 CoCGEC 数据集以及自动标注语病范围的代码。这些资源基于我们在 2025COLING Main 接收的论文  
+本仓库公开了用于中文语病纠错（CGEC）的 CoCGEC 数据集以及自动标注语病范围的代码。这些资源基于我们在 COLING 2025 接收的论文  
 **“A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction”**  
 中提出的方法。
 
@@ -9,7 +9,7 @@
 ```
 CoCGEC/
 ├── data/
-│   └── CoCGEC_train.json      # 包含训练数据及语法错误和错误范围的标注信息
+│   └── CoCGEC_train.json      # 包含训练数据及语病错误、错误类型和错误范围的标注信息
 ├── LICENSE                    # 项目许可证（Apache-2.0）
 ├── README.md                  # 中文自述文件
 ├── README_EN.md               # 英文自述文件
@@ -18,7 +18,7 @@ CoCGEC/
 
 ## 数据集说明
 
-- **CoCGEC_train.json**：该文件包含用于训练的中文语法错误纠正数据，每个样本均附带语法错误及对应错误范围的标注信息。
+- **CoCGEC_train.json**：该文件包含用于训练的中文语病纠错数据，每个样本均附带语法错误及对应错误类型和错误范围的标注信息。
 - 数据集采用多粒度自动标注方法构建，旨在降低模型在纠正过程中的过度修改现象，提高纠正精度。
 
 ## 代码说明
