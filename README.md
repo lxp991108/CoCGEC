@@ -11,8 +11,8 @@ CoCGEC/
 ├── data/
 │   └── CoCGEC_train.json      # Training dataset with annotated grammatical errors, error types, and error ranges
 ├── LICENSE                    # Project license (Apache-2.0)
-├── README.md                  # Chinese version of this README
-├── README_EN.md               # English version of this README
+├── README.md                  # English version of this README
+├── README_ZH.md               # Chinese version of this README
 └── addErrorRange.py           # Code for automatic error range annotation
 ```
 
