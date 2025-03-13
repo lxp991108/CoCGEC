@@ -1,4 +1,5 @@
 # CoCGEC: A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction
+[**English**](https://github.com/lxp991108/CoCGEC) | [**中文**](https://github.com/lxp991108/CoCGEC/blob/main/README_ZH.md)
 
 This repository contains the CoCGEC dataset for Chinese Grammatical Error Correction (CGEC) and the associated code for automatic error range annotation. These resources are based on the methods proposed in our paper  
 **“A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction”**  
