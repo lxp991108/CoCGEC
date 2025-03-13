@@ -11,8 +11,8 @@ CoCGEC/
 ├── data/
 │   └── CoCGEC_train.json      # 包含训练数据及语病错误、错误类型和错误范围的标注信息
 ├── LICENSE                    # 项目许可证（Apache-2.0）
-├── README.md                  # 中文自述文件
-├── README_EN.md               # 英文自述文件
+├── README.md                  # 英文自述文件
+├── README_ZH.md               # 中文自述文件
 └── addErrorRange.py           # 自动标注语病范围的代码
 ```
 
