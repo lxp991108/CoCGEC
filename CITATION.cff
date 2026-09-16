@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the COLING 2025 paper."
+title: "CoCGEC"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xinpeng
+  - family-names: Xu
+    given-names: Bing
+  - family-names: Yang
+    given-names: Muyun
+  - family-names: Cao
+    given-names: Hailong
+  - family-names: Zhu
+    given-names: Conghui
+  - family-names: Zhao
+    given-names: Tiejun
+  - family-names: Lu
+    given-names: Wenpeng
+version: 0.1.0
+date-released: 2025-01-19
+license: Apache-2.0
+repository-code: "https://github.com/lxp991108/CoCGEC"
+url: "https://aclanthology.org/2025.coling-main.577/"
+preferred-citation:
+  type: conference-paper
+  title: "A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction"
+  authors:
+    - family-names: Liu
+      given-names: Xinpeng
+    - family-names: Xu
+      given-names: Bing
+    - family-names: Yang
+      given-names: Muyun
+    - family-names: Cao
+      given-names: Hailong
+    - family-names: Zhu
+      given-names: Conghui
+    - family-names: Zhao
+      given-names: Tiejun
+    - family-names: Lu
+      given-names: Wenpeng
+  collection-title: "Proceedings of the 31st International Conference on Computational Linguistics"
+  publisher:
+    name: Association for Computational Linguistics
+  conference: "The 31st International Conference on Computational Linguistics"
+  start: "8623"
+  end: "8639"
+  url: "https://aclanthology.org/2025.coling-main.577/"
+  year: 2025
