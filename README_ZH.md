@@ -197,4 +197,4 @@ GitHub Actions 会在 Python 3.10 和 3.12 上运行测试与静态检查。
 
 代码采用 [Apache-2.0](LICENSE) 许可证，该许可证已获得所有合作者及所属机构认可。
 
-如有问题或建议，请联系：[dtldlcy@gmail.com](mailto:dtldlcy@gmail.com)。
+如有问题或建议，请联系：[26b903057@stu.hit.edu.cn](mailto:26b903057@stu.hit.edu.cn)。
